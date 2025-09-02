@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, my name is Victoria!👋
 
-<!--
-**victoriakolsing/victoriakolsing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a computer science student and AI developer from Norway, passionate about sustainable, people-centered AI solutions with a strong focus on data privacy and sustainability. I also TA in DAVE3625 Introduction to Artificial Intelligence at Oslo Metropolitan University.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack (to be updated)
+- Languages: Python, Java, Kotlin, C, SQL
+- Frameworks and libraries: LangChain, LangGraph, PyTorch, TensorFlow, Jetpack Compose
+- Data & Databases: Snowflake, PostgreSQL, Pandas, NumPy 
+- Tools and cloud: Git, AWS, AWS NKI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💌 Reach out!
+For students: vikol6878@oslomet.no  \
+Email: victoryk@uio.no  \
+LinkedIn: [linkedin.com/in/victoria-kolsing/](https://www.linkedin.com/in/victoria-kolsing/)
